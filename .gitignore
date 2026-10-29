@@ -1,0 +1,21 @@
+# Nucleus is licensed: copy your own Assets/Nucleus in (README).
+/Assets/Nucleus/
+/Assets/Nucleus.meta
+# Written by Repro > Build.
+/Assets/Resources/
+/Assets/Resources.meta
+/Assets/Repro/Repro.unity
+/Assets/Repro/Repro.unity.meta
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/Builds/
+/obj/
+/bin/
+/dotnet-harness/bin/
+/dotnet-harness/obj/
+*.csproj.user
+/*.sln
+/*.slnx
+/Assembly-CSharp*.csproj

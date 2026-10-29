@@ -1,0 +1,83 @@
+# host
+REPRO hosting
+REPRO host t=5s mode=Divine component rotation 2.4 deg from rest (0.01186, 0.99979, -0.01695, -0.00006), body 2.4 deg from rest
+REPRO host t=6s mode=Divine component rotation 0.5 deg from rest (0.00274, 0.99999, -0.00391, -0.00015), body 0.5 deg from rest
+REPRO host t=7s mode=Divine component rotation 1.8 deg from rest (-0.00919, 0.99987, 0.01314, -0.00017), body 1.8 deg from rest
+REPRO host t=8s mode=Divine component rotation 2.4 deg from rest (-0.01181, 0.99979, 0.01688, -0.00026), body 2.4 deg from rest
+REPRO host t=9s mode=Divine component rotation 0.4 deg from rest (-0.00218, 0.99999, 0.00313, -0.00035), body 0.4 deg from rest
+REPRO host t=10s mode=Divine component rotation 1.9 deg from rest (0.00953, 0.99986, -0.01363, -0.00037), body 1.9 deg from rest
+REPRO host t=11s mode=Divine component rotation 2.3 deg from rest (0.01162, 0.99979, -0.01663, -0.00046), body 2.3 deg from rest
+REPRO host t=12s mode=Divine component rotation 0.4 deg from rest (0.00192, 0.99999, -0.00276, -0.00054), body 0.4 deg from rest
+REPRO host t=13s mode=Divine component rotation 2.0 deg from rest (-0.00985, 0.99985, 0.01410, -0.00056), body 2.0 deg from rest
+REPRO host t=14s mode=Divine component rotation 2.3 deg from rest (-0.01141, 0.99980, 0.01634, -0.00065), body 2.3 deg from rest
+REPRO host t=15s mode=Divine component rotation 0.2 deg from rest (-0.00114, 1.00000, 0.00165, -0.00073), body 0.2 deg from rest
+REPRO host t=16s mode=Divine component rotation 2.0 deg from rest (0.01016, 0.99984, -0.01454, -0.00075), body 2.0 deg from rest
+REPRO host t=17s mode=Divine component rotation 2.3 deg from rest (0.01129, 0.99980, -0.01619, -0.00085), body 2.3 deg from rest
+REPRO host t=18s mode=Divine component rotation 0.2 deg from rest (0.00087, 1.00000, -0.00127, -0.00092), body 0.2 deg from rest
+REPRO host t=19s mode=Divine component rotation 2.1 deg from rest (-0.01030, 0.99984, 0.01476, -0.00094), body 2.1 deg from rest
+REPRO host t=20s mode=Divine component rotation 2.2 deg from rest (-0.01105, 0.99981, 0.01587, -0.00104), body 2.2 deg from rest
+REPRO host t=21s mode=Divine component rotation 0.2 deg from rest (-0.00061, 1.00000, 0.00090, -0.00111), body 0.2 deg from rest
+REPRO host t=22s mode=Divine component rotation 2.1 deg from rest (0.01058, 0.99983, -0.01517, -0.00113), body 2.1 deg from rest
+REPRO host t=23s mode=Divine component rotation 2.2 deg from rest (0.01092, 0.99982, -0.01569, -0.00123), body 2.2 deg from rest
+REPRO host t=24s mode=Divine component rotation 0.0 deg from rest (0.00008, 1.00000, -0.00015, -0.00130), body 0.0 deg from rest
+REPRO host t=25s mode=Divine component rotation 2.2 deg from rest (-0.01083, 0.99982, 0.01555, -0.00132), body 2.2 deg from rest
+REPRO host t=26s mode=Divine component rotation 2.1 deg from rest (-0.01065, 0.99982, 0.01533, -0.00142), body 2.1 deg from rest
+REPRO host t=27s mode=Divine component rotation 0.2 deg from rest (0.00019, 1.00000, -0.00022, -0.00149), body 0.2 deg from rest
+REPRO host t=28s mode=Divine component rotation 2.2 deg from rest (0.01095, 0.99982, -0.01573, -0.00151), body 2.2 deg from rest
+REPRO host t=29s mode=Divine component rotation 2.1 deg from rest (0.01050, 0.99983, -0.01513, -0.00161), body 2.1 deg from rest
+REPRO host t=30s mode=Divine component rotation 0.2 deg from rest (-0.00045, 1.00000, 0.00060, -0.00168), body 0.2 deg from rest
+REPRO host t=31s mode=Divine component rotation 2.2 deg from rest (-0.01106, 0.99981, 0.01590, -0.00170), body 2.2 deg from rest
+REPRO host t=32s mode=Divine component rotation 2.1 deg from rest (-0.01035, 0.99983, 0.01493, -0.00180), body 2.1 deg from rest
+REPRO host t=33s mode=Divine component rotation 0.3 deg from rest (0.00097, 1.00000, -0.00135, -0.00186), body 0.3 deg from rest
+REPRO host t=34s mode=Divine component rotation 2.3 deg from rest (0.01117, 0.99981, -0.01607, -0.00189), body 2.3 deg from rest
+REPRO host t=35s mode=Divine component rotation 2.0 deg from rest (0.01005, 0.99984, -0.01451, -0.00199), body 2.0 deg from rest
+REPRO host t=36s mode=Divine component rotation 0.4 deg from rest (-0.00149, 0.99999, 0.00209, -0.00205), body 0.4 deg from rest
+REPRO host t=37s mode=Divine component rotation 2.3 deg from rest (-0.01138, 0.99980, 0.01638, -0.00208), body 2.3 deg from rest
+REPRO host t=38s mode=Divine component rotation 2.0 deg from rest (-0.00988, 0.99985, 0.01429, -0.00218), body 2.0 deg from rest
+REPRO host t=39s mode=Divine component rotation 0.4 deg from rest (0.00176, 0.99999, -0.00247, -0.00224), body 0.4 deg from rest
+REPRO host t=40s mode=Divine component rotation 2.3 deg from rest (0.01147, 0.99980, -0.01653, -0.00226), body 2.3 deg from rest
+REPRO host t=41s mode=Divine component rotation 2.0 deg from rest (0.00971, 0.99985, -0.01407, -0.00236), body 2.0 deg from rest
+REPRO host t=42s mode=Divine component rotation 0.4 deg from rest (-0.00176, 0.99999, 0.00247, -0.00242), body 0.4 deg from rest
+REPRO host t=43s mode=Divine component rotation 2.3 deg from rest (-0.01156, 0.99979, 0.01667, -0.00245), body 2.3 deg from rest
+REPRO host t=44s mode=Divine component rotation 1.9 deg from rest (-0.00954, 0.99986, 0.01383, -0.00255), body 1.9 deg from rest
+REPRO host t=45s mode=Divine component rotation 0.5 deg from rest (0.00202, 0.99999, -0.00284, -0.00260), body 0.5 deg from rest
+
+# client
+REPRO joining 127.0.0.1
+REPRO client t=5s mode=Divine component rotation 23.1 deg from rest (0.12792, 0.97970, -0.15434, -0.00064), body 20.2 deg from rest
+REPRO client t=6s mode=Divine component rotation 35.7 deg from rest (0.19369, 0.95185, -0.23763, -0.00111), body 31.3 deg from rest
+REPRO client t=7s mode=Divine component rotation 36.2 deg from rest (0.19816, 0.95056, -0.23908, -0.00073), body 31.6 deg from rest
+REPRO client t=8s mode=Divine component rotation 35.9 deg from rest (0.19878, 0.95126, -0.23576, -0.00032), body 31.6 deg from rest
+REPRO client t=9s mode=Divine component rotation 36.3 deg from rest (0.20160, 0.95030, -0.23724, -0.00011), body 31.5 deg from rest
+REPRO client t=10s mode=Divine component rotation 47.6 deg from rest (0.26285, 0.91506, -0.30590, -0.00259), body 43.3 deg from rest
+REPRO client t=11s mode=Divine component rotation 61.0 deg from rest (0.32909, 0.86142, -0.38685, -0.00107), body 56.7 deg from rest
+REPRO client t=12s mode=Divine component rotation 72.0 deg from rest (0.38026, 0.80908, -0.44810, -0.00043), body 68.1 deg from rest
+REPRO client t=13s mode=Divine component rotation 71.6 deg from rest (0.37980, 0.81087, -0.44523, 0.00168), body 67.5 deg from rest
+REPRO client t=14s mode=Divine component rotation 71.7 deg from rest (0.38189, 0.81078, -0.44361, 0.00287), body 67.3 deg from rest
+REPRO client t=15s mode=Divine component rotation 72.2 deg from rest (0.38509, 0.80809, -0.44573, 0.00332), body 67.9 deg from rest
+REPRO client t=16s mode=Divine component rotation 83.9 deg from rest (0.43899, 0.74351, -0.50444, 0.00484), body 80.0 deg from rest
+REPRO client t=17s mode=Divine component rotation 97.3 deg from rest (0.48965, 0.66086, -0.56874, 0.00587), body 93.5 deg from rest
+REPRO client t=18s mode=Divine component rotation 109.3 deg from rest (0.52614, 0.57854, -0.62313, 0.01283), body 105.6 deg from rest
+REPRO client t=19s mode=Divine component rotation 109.0 deg from rest (0.52703, 0.58057, -0.62046, 0.01421), body 105.3 deg from rest
+REPRO client t=20s mode=Divine component rotation 108.8 deg from rest (0.52691, 0.58240, -0.61879, 0.01659), body 105.0 deg from rest
+REPRO client t=21s mode=Divine component rotation 114.5 deg from rest (0.55014, 0.54099, -0.63561, 0.02619), body 110.8 deg from rest
+REPRO client t=22s mode=Divine component rotation 127.8 deg from rest (0.59203, 0.43990, -0.67470, 0.02768), body 124.2 deg from rest
+REPRO client t=23s mode=Divine component rotation 141.5 deg from rest (0.62627, 0.32997, -0.70569, 0.03012), body 138.0 deg from rest
+REPRO client t=24s mode=Divine component rotation 149.9 deg from rest (0.64200, 0.25977, -0.72092, 0.02498), body 146.6 deg from rest
+REPRO client t=25s mode=Divine component rotation 149.8 deg from rest (0.64277, 0.26026, -0.71996, 0.02769), body 146.3 deg from rest
+REPRO client t=26s mode=Divine component rotation 149.6 deg from rest (0.64311, 0.26240, -0.71878, 0.03025), body 146.1 deg from rest
+REPRO client t=27s mode=Divine component rotation 152.5 deg from rest (0.64881, 0.23774, -0.72212, 0.03265), body 149.0 deg from rest
+REPRO client t=28s mode=Divine component rotation 166.4 deg from rest (0.66620, 0.11842, -0.73569, 0.03031), body 163.0 deg from rest
+REPRO client t=29s mode=Divine component rotation 179.7 deg from rest (0.67664, 0.00295, -0.73577, 0.02821), body 176.6 deg from rest
+REPRO client t=30s mode=Divine component rotation 168.8 deg from rest (0.67905, -0.09756, -0.72706, 0.02749), body 171.9 deg from rest
+REPRO client t=31s mode=Divine component rotation 168.3 deg from rest (0.67848, -0.10179, -0.72686, 0.03130), body 169.1 deg from rest
+REPRO client t=32s mode=Divine component rotation 167.7 deg from rest (0.67830, -0.10693, -0.72614, 0.03466), body 164.7 deg from rest
+REPRO client t=33s mode=Divine component rotation 165.4 deg from rest (0.67760, -0.12693, -0.72358, 0.03436), body 162.0 deg from rest
+REPRO client t=34s mode=Divine component rotation 152.0 deg from rest (0.66361, -0.24158, -0.70746, 0.02768), body 148.2 deg from rest
+REPRO client t=35s mode=Divine component rotation 138.9 deg from rest (0.64770, -0.35074, -0.67596, 0.02328), body 134.9 deg from rest
+REPRO client t=36s mode=Divine component rotation 128.9 deg from rest (0.62893, -0.43095, -0.64677, 0.02067), body 125.2 deg from rest
+REPRO client t=37s mode=Divine component rotation 129.2 deg from rest (0.62844, -0.42893, -0.64849, 0.02342), body 125.4 deg from rest
+REPRO client t=38s mode=Divine component rotation 129.2 deg from rest (0.62784, -0.42859, -0.64920, 0.02579), body 125.4 deg from rest
+REPRO client t=39s mode=Divine component rotation 125.4 deg from rest (0.61739, -0.45827, -0.63879, 0.02790), body 121.6 deg from rest
+REPRO waiting for the body's state
+REPRO RESULT: REPRODUCED, the client's received rotation drifted 180 deg from where the host holds it
